@@ -1,0 +1,8 @@
+:rot{
+   --color-rojo: red;
+   --color-body: rgba(0,0,0,0.3);
+}
+
+body{
+   background-color: var(--color-body);
+}
